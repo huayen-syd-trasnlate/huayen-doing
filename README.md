@@ -1,1 +1,1 @@
-# huayen-doing-dict
+# Huayen Sydney Translations

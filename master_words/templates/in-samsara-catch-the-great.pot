@@ -1,0 +1,56 @@
+#. extracted from ./in-samsara-catch-the-great.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 19:47+1100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.0\n"
+
+#: ./in-samsara-catch-the-great.txt:2
+msgid "《張大教網，下生死海》"
+msgstr ""
+
+#: ./in-samsara-catch-the-great.txt:4
+msgid ""
+"小孩子一上球場，總是開開心心的，球還沒有丟出去，他們就開始笑了，投歪了、暴投了都無所謂，他們的遊戲規則不太規律，不像是在打球，倒像是在玩球，小孩子把打球這"
+"件事情變成了一場遊戲，很好玩，沒有壓力，沒有輸贏。但球員就不一樣了，有輸有贏，且規則非常嚴謹，有人患得患失，甚至有參賽者為贏得比賽，抹黑栽贓對手，這個過程"
+"裡沒有高興沒有歡喜，只有得失。"
+msgstr ""
+
+#: ./in-samsara-catch-the-great.txt:6
+msgid ""
+"得到奧運金牌的那種震撼很不得了，體育界中的完勝強人，幾乎十全十美的厲害，那種止於至善類似佛的境界，凡人很難理解；不過，眾生海海，奧運金牌能有幾人？這個世界"
+"上有六十幾億人口注定平凡，平凡也是福，他們畢生與超凡入聖無緣，因為自由自在對他們來說實在太重要了。當然，失去那份自在，沒有一個混亂的規則，沒有任何標準要求"
+"，就沒有條件去挑戰世界唯一的紀錄。我們修行就是要挑戰，但想挑戰就一定要有基礎。"
+msgstr ""
+
+#: ./in-samsara-catch-the-great.txt:8
+msgid ""
+"健全的人格與觀念，是修行基礎，當你健全基礎條件之後，就能發現弘法利眾生，好像運動一樣，需要有隊友跟你搭配，才能進行攻防。我們修行也講超越，所要超越的對象不"
+"是別人而是自己。首先，我們要了解自己，方能自我超越。"
+msgstr ""
+
+#: ./in-samsara-catch-the-great.txt:10
+msgid ""
+"天台宗智者大師說：「張大教網，下生死海，補人天龍，置涅槃岸。」大教，即教儀及教理，也就是用佛法的大網，在生死大海中，將人間及天上的眾生，撈起來置於不生不滅"
+"的大涅槃境界。不修行就不知道佛法殊勝，更無法體驗不思議解脫境界。同樣是修行，若不弘法利眾生，根本達不到不思議解脫境界，因為你只是用自己的想法去想，用自己的"
+"做法去做，困在小世界裡畫地自限，格局必然有限。"
+msgstr ""
+
+#: ./in-samsara-catch-the-great.txt:12
+msgid ""
+"接觸大眾、與眾相處，是一種非常好的修行方式。要如何處眾？祖師告訴我們「張大教網」，把正法的語言文字打開而步入群眾，即「下生死海」。教化眾生的目的，是在使自"
+"己成為人天龍，而不是要挑人天龍來教化，這世上的人天龍又有幾個呢？眾生皆活在慣性中，有經年累月養成的習慣，若能幫助某人改變意識形態的標準，那教化者與被教化者"
+"都是人天龍了！怎麼點醒？怎麼折服？怎麼攝受？如何進行？這才是真正考驗我們的修行啊！"
+msgstr ""
+
+#: ./in-samsara-catch-the-great.txt:13
+msgid "文章出自：《安居講談一》第七章：華嚴行門"
+msgstr ""
