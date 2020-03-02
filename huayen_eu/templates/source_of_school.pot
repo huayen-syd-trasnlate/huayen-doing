@@ -1,0 +1,104 @@
+#. extracted from ./source_of_school.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-03 06:03+1100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.0\n"
+
+#: ./source_of_school.txt:2
+msgid "本宗源流"
+msgstr ""
+
+#: ./source_of_school.txt:4
+msgid ""
+"华严传承源流并非祖师刻意立宗，乃因代代相承、祖祖传心、灯灯相续 至元朝至正十二年 (公元一三五二年佛历二四O四年) "
+"西安草堂寺立碑，以圭峰宗密一系相传，为华严宗传承之历史依据。"
+msgstr ""
+
+#: ./source_of_school.txt:6
+msgid "华严宗传承之历史依据"
+msgstr ""
+
+#: ./source_of_school.txt:8
+msgid "一、华严宗:尊杜顺为初祖，又分云栖、雪浪两派，多行于南方 (江南为主)"
+msgstr ""
+
+#: ./source_of_school.txt:10
+msgid "二、贤首宗:尊贤首为初祖，亦有两派，即宝通与高原明昱法系多行于北方 (以北京为主)。"
+msgstr ""
+
+#: ./source_of_school.txt:12
+msgid "本宗则出自贤首宗高原明昱一系，今传至第四十二世祖海云继梦，因历史绵长、代代递迁更迭、堂号过多，以四十二祖会下之名即有:"
+msgstr ""
+
+#: ./source_of_school.txt:14
+msgid "贤首宗第四十二世祖"
+msgstr ""
+
+#: ./source_of_school.txt:16
+msgid "高原明昱始兼慈恩宗，第十八世祖"
+msgstr ""
+
+#: ./source_of_school.txt:18
+msgid "广善寺系第十三代"
+msgstr ""
+
+#: ./source_of_school.txt:20
+msgid "福慧寺系第三代"
+msgstr ""
+
+#: ./source_of_school.txt:22
+msgid "大华严寺系第一代"
+msgstr ""
+
+#: ./source_of_school.txt:24
+msgid "三、印度大乘瑜伽行法传承始于BC4500,尸婆 (普贤菩萨) 的第二十八代化身示现为拉克卢希开始"
+msgstr ""
+
+#: ./source_of_school.txt:26
+msgid "1913年再度示现为极音难陀传法灌顶"
+msgstr ""
+
+#: ./source_of_school.txt:28
+msgid "1931年极音难陀传法于仁爱难陀"
+msgstr ""
+
+#: ./source_of_school.txt:30
+msgid "1971年仁爱难陀传授于胜狮子王菩萨"
+msgstr ""
+
+#: ./source_of_school.txt:32
+msgid "1993年普贤菩萨再度示现 (Dadaji): 逆舌身印的行法指导、嘱咐振兴永恒的真理"
+msgstr ""
+
+#: ./source_of_school.txt:34
+msgid "和上于2008年12月27日接受此一传承"
+msgstr ""
+
+#: ./source_of_school.txt:36
+msgid "2003年，这个历史性的使命在觉谛难陀与大和上在美国芝加哥相遇之后终告完成。"
+msgstr ""
+
+#: ./source_of_school.txt:40
+msgid "2008年，大和上亲赴印度谒见胜师子王菩萨，12月30日，胜师子王菩萨将心法传授予海云大和上。"
+msgstr ""
+
+#: ./source_of_school.txt:42
+msgid "大和上念兹在兹的两大疑情终于破解此“法界大拼图”乃得圆成，几经推敲，终于2015年冬，正式勘定此“法界大拼图”为“东山法门蓝图”。"
+msgstr ""
+
+#: ./source_of_school.txt:46
+msgid "2008年，海云和上接印度大瑜伽士胜师子王菩萨之传法灌顶，继承中土失传之“大乘瑜伽行法” (即禅宗之心法) 也承接完整之禅观行法。"
+msgstr ""
+
+#: ./source_of_school.txt:47
+msgid "教属 “华严”，观属“禅宗心法”，“教观双举”即为华严之所依。"
+msgstr ""
