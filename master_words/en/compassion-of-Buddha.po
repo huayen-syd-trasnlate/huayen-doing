@@ -1,0 +1,66 @@
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 19:47+1100\n"
+"PO-Revision-Date: 2020-02-28 23:40+0000\n"
+"Last-Translator: Jerry <jerry.li.love@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
+
+#: ./compassion-of-Buddha.txt:2
+msgid "《佛陀的慈悲》"
+msgstr "The compassion of Buddha"
+
+#: ./compassion-of-Buddha.txt:4
+msgid "當年在靈山會上，有個婦人的兒子死了，她抱著屍體哭著求佛陀說：「世尊啊！你已成佛，你是萬能的，請救活我的兒子！我只有這麼一個兒子，跟他相依為命，他死了我也活不下去！」"
+msgstr ""
+"Once upon a time, during a gathering on the Gijjhakuta with the great Buddha, there was a mother who lost her son, and brought the dead body to the Buddha, and said: \"The great world respected one!"
+" You are enlightened therefore omnipotent, please revive my son! I only have one son, and living with him alone to survive, if he's gone, I can no longer live on!\""
+
+#: ./compassion-of-Buddha.txt:7
+msgid "佛陀很慈悲，並沒有把她的兒子救活，而是告訴她：「妳到舍衛國去，那裡有九萬戶人家，妳去問問看，有哪一戶人家從來沒死過人？就從那一戶人家拿一把米回來，我就可以把妳兒子救活。」"
+msgstr ""
+
+#: ./compassion-of-Buddha.txt:10
+msgid "婦人果真去了舍衛國，但只訪問了一萬戶人家之後，就回來找佛陀。她說：「世尊，我明白了，天底下沒有不死人的！我現在不祈求我兒子復活，他即使活了，終歸還是要死。」透過佛陀的開導，婦人終於大徹大悟「死亡」是真理，是逃避不了的必然，而不再執迷復活一事，了此罣礙，這是佛陀的慈悲。"
+msgstr ""
+
+#: ./compassion-of-Buddha.txt:13
+msgid "我們常在基督教經典裡看到，說耶穌有辦法把死人救活。如果那個死了兒子的婦人來找耶穌，耶穌食指動一動，那孩子復活了，那問題來了，那孩子如果活到現在豈不是兩千多歲了？那孩子有可能活到兩千多歲嗎？他最終還是得死亡，婦人也無法開悟。相比之下，誰慈悲呢？"
+msgstr ""
+
+#: ./compassion-of-Buddha.txt:16
+msgid "佛法所講的慈悲，並非世間人以為的顛倒妄想。身為一名佛弟子，要懂得如何藉著這個境、這個條件，使人開悟。如何使人開悟？這是最重要的關鍵，應該從此處著手理解，一個學佛人與一個信佛人應該做什麼？應該把學法與信佛合併起來，才是真正的學佛人。假如不懂如何學法的話，那信佛也不過是民間的拜拜而已。"
+msgstr ""
+
+#: ./compassion-of-Buddha.txt:19
+msgid "這時你又矇了，學佛人？信佛人？兩者不同？學佛人可以分為兩個系統：一是學法人，一是信佛人。學法，就是佛說什麼他修什麼；信佛，就是依於佛所行，重視三千威儀、八萬細行。"
+msgstr ""
+
+#: ./compassion-of-Buddha.txt:22
+msgid "通常南傳佛教為學法，北傳佛教是在信佛。見佛行儀依之仿學的叫菩提道，比較能夠接觸眾生，自利利他，境界寬廣，所以又稱為大乘；而依佛陀的教誡修行稱為聲聞道，佛這樣說他就這樣做，佛沒有說的就不敢有變化，即使有變化也是在很小的範圍內，因為死守基本法條與行法，境界不夠開闊，所以又叫小乘。"
+msgstr ""
+
+#: ./compassion-of-Buddha.txt:25
+msgid "大乘修學顧及的層面很大，因此不容易有成就，例如救濟是同情眾生、悲憫眾生，卻未必是慈悲眾生，世間法常常陷眾生於不義而不自知。所以，要了解覺悟的教育與方法，就必須學法，才不會望文生義、妄自尊大，產生我執障礙。"
+msgstr ""
+
+#: ./compassion-of-Buddha.txt:28
+msgid "我們可以透過大乘與小乘像鏡子一樣的觀照反觀自己，不要以為自己的所修所學才是最正確的，佛弟子應有廣闊的心胸與眼界，彼此之間互相學習，取優點、棄缺點，勇於增長善根，就不會失去警覺性踏入偏差陷阱，修行方能有所成就。"
+msgstr ""
+
+#: ./compassion-of-Buddha.txt:30
+msgid "歡迎加入大華嚴寺line@官方帳號 https://line.me/ti/p/@huayenworld"
+msgstr ""
+
+#: ./compassion-of-Buddha.txt:31
+msgid "文章出自：《安居講談一》第二章：佛教現象"
+msgstr ""

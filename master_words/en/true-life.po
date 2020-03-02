@@ -1,0 +1,62 @@
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 19:47+1100\n"
+"PO-Revision-Date: 2020-02-28 23:07+0000\n"
+"Last-Translator: Jerry <jerry.li.love@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
+
+#: ./true-life.txt:2
+msgid "《生命的真面目》"
+msgstr "True life"
+
+#: ./true-life.txt:4
+msgid "《摩訶般若波羅蜜經釋論》卷十二當中，有一段「二鬼爭屍」的故事，內容有點恐怖殘忍，但它恰好說明了「佛法的中心思想」，佛法在於要每一個人都能認識生命的真面目。"
+msgstr ""
+"Volume. 12 of the Great Treatise on the Perfection of Wisdom, tells a story about the Dead body's fight between two ghosts, its content is a bit of bloodshed and violence, however, the core thoughts"
+" of Buddhism is depicted within it perfectly, its aim is to allow everyone to be able to recognise the true facets of life."
+
+#: ./true-life.txt:6
+msgid "故事中，有一位旅人錯過了旅店，來到一座荒廢神廟借住一宿，打算明天再趕路。半夜，一個小鬼拖了一個死人屍體進來，正當他快被嚇暈的時候，後面又有一個大鬼也跟著跑了進來，硬要搶走小鬼的屍體。兩隻鬼吵架吵得熱火朝天，半分不讓，都爭著說屍體是自己的，旅人只能躲在神龕下嚇得皮皮剉。"
+msgstr ""
+
+#: ./true-life.txt:8
+msgid "小鬼發現神廟裡還有一個人，就指著旅人說：「你出來，不要怕，你有看到屍體是誰先搬進來的吧！你來替我們評評理。」"
+msgstr ""
+
+#: ./true-life.txt:10
+msgid "旅人心想：「假如袒護小鬼，大鬼會把我吃掉；假如袒護大鬼，小鬼會找我算帳。」左思右想，反正都是個死，那就老老實實的死一回吧！於是就勇敢地說：「這個屍體，是小鬼搬進來的。」"
+msgstr ""
+
+#: ./true-life.txt:12
+msgid "大鬼一聽生氣了，立刻把旅人一隻手折斷吃下去，小鬼為了感謝旅人講真話，就從屍體上折了一隻手給他接上去。大鬼一看更生氣了，把另一隻手也折斷吃到肚子裡，小鬼又把屍體的另一隻折下來給旅人補回去。大鬼一看火氣更大了，直接把旅人的雙腿吃掉，小鬼很快地拆下屍體的雙腿幫旅人接回去。接下來，大鬼陸續吃了旅人的肚子和頭顱，小鬼也趕快把屍體的肚子和頭顱裝在旅人的身體上。"
+msgstr ""
+
+#: ./true-life.txt:14
+msgid "兩隻鬼一陣胡鬧後，呼嘯而去。就這樣，旅人原本的身體全給大鬼吃了，小鬼也替這個人全都接了回來，好像現在的器官移植，結果這個旅人仍然身體健全。旅人躺在地上，產生了疑問：我是誰？我到底有沒有死？現在這個身體，是那具屍體的，還是我的？這個身體裡到底有沒有我？"
+msgstr ""
+
+#: ./true-life.txt:16
+msgid "他想坐起來就真的坐起來了，他想站起來就真的站起來了，他想走路也就真的能走路，還能跑能跳。發現可以依心行動自如的時候，他想：這還是我啊！當旅人大悟，原來這個身體根本不是我的，那是假相，我的真如自性，是吃不了，也換不了的，這時才發覺另外一個真我。當下這一刻，他就證阿羅漢了。"
+msgstr ""
+
+#: ./true-life.txt:18
+msgid "我是誰？難道假合的四大色身是我？難道數十年的歲月就是人生？那實在是太渺小了。人是亙古今而不變，歷萬劫而常新，在物質身體之外，精神慧命永生不死。我，不是肉身的我，而是一個真實的我，一旦體證了無限生命的真我沒有死亡，便沒有恐怖，沒有顛倒妄想。"
+msgstr ""
+
+#: ./true-life.txt:20
+msgid "古代的人心寧靜，定力夠，所以會守住真心來觀察因緣變化；現在人受到的誘惑太多，對因緣變化又容易心生恐懼，所以難以成就修行。事實上，本來就是「無我」，色身都是假借和合的，當因緣起變化，一再重組，色身還是一樣。我們學習佛法，首先要先理解色身無常，知道法身慧命是什麼？然後去體會並兌現它，如此才是修行，這才是我們學佛的真正目的。"
+msgstr ""
+
+#: ./true-life.txt:21
+msgid "文章出處：《安居講談一》第三章：佛教精神"
+msgstr ""

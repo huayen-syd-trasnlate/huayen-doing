@@ -1,0 +1,60 @@
+#. extracted from ./if-aware-then-all.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 19:47+1100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.0\n"
+
+#: ./if-aware-then-all.txt:2
+msgid "《覺知當下，一切皆法》"
+msgstr ""
+
+#: ./if-aware-then-all.txt:4
+msgid ""
+"禪宗公案很難用分別意識去解釋，好多東西是境界性的概念，要用分別性的語言去說明，根本就是說不準確的。佛法講究機緣，懂得，時時皆機緣，處處皆機緣，人人皆機緣，"
+"事事皆機緣。不懂，即使說得天花亂墜，也與機緣無關，無異是一場辯論式的口沫橫飛。"
+msgstr ""
+
+#: ./if-aware-then-all.txt:6
+msgid ""
+"禪宗公案裡有一則「講者無心，聽者有意」的故事，講的便是「一切皆法」。一位雲水僧聽人說無相禪師的禪法高妙，想向他挑戰辯論，恰好無相禪師不在寺中，徒弟小沙彌出"
+"來接待，說：「禪師不在寺中，有事我可以代勞。」雲水僧說：「你年紀太小，回答不了我的問題。」"
+msgstr ""
+
+#: ./if-aware-then-all.txt:8
+msgid ""
+"小沙彌不服氣地說：「別看我年紀小，智慧可不小！」雲水僧伸出手指頭比了一個小圈，向前一指，小沙彌攤開雙手劃了一個大圓。雲水僧再伸出一根手指頭，小沙彌跟著伸出"
+"五根手指頭。雲水僧又比出三根手指頭，小沙彌最後用手在自己的眼睛旁邊點了一下。"
+msgstr ""
+
+#: ./if-aware-then-all.txt:10
+msgid ""
+"雲水僧非常詫異，心想：我用手比了個小圈，向前一指，是問你心胸有多大？他攤開雙手劃了個大圈，說有大海那麼大。我又伸出一指問他自身如何？他伸出五指就是說他受持"
+"五戒。我再伸出三指問他三界如何？他指指眼睛說三界就在眼裡。一個小沙彌尚且如此厲害，可見無相禪師的修行深不可測，我還是別留下來丟人現眼。接著就跪了下來，頂禮"
+"三拜，一聲不吭，轉頭就走。"
+msgstr ""
+
+#: ./if-aware-then-all.txt:12
+msgid ""
+"無相禪師回來後，小沙彌立即向師父報告經過，納悶地說：「不知道為什麼那位僧人知道我俗家是賣餅的，對方用手比個小圈說，你家的餅只這麼一點大。我攤開雙手說，才不"
+"，有這麼大呢！他伸出一指說，一個一文錢嗎？我伸出五指說五文錢才能買一個。他又伸出三指想殺價，問我說三文錢可以嗎？我覺得他太不厚道，便比了眼睛，笑他有眼無珠"
+"不識貨，他竟然立馬跑掉了，真是一個怪人！」"
+msgstr ""
+
+#: ./if-aware-then-all.txt:14
+msgid ""
+"無相禪師聽完，只淡淡說道：「一切皆法也，一切皆禪也！」一場比手畫腳、風馬牛不相干的誤會，居然也能造就一次巧合、機緣一場佛法、法述一宗禪理、理出無限境界，這"
+"便是覺知當下，繫心於道，處處皆法。"
+msgstr ""
+
+#: ./if-aware-then-all.txt:15
+msgid "文章出自：《安居講談一》第十章：華嚴禪法"
+msgstr ""
