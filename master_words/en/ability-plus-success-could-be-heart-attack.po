@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-28 19:47+1100\n"
-"PO-Revision-Date: 2020-02-29 00:10+0000\n"
+"PO-Revision-Date: 2020-03-08 06:43+0000\n"
 "Last-Translator: Jerry <jerry.li.love@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
@@ -49,6 +49,8 @@ msgstr ""
 #: ./ability-plus-success-could-be-heart-attack.txt:22
 msgid "心經講的是每個人自己的事，能觀能自在，不要鑽牛角；你不會觀的話，就鑽牛角尖。所以必須客觀、冷靜分析自己的方方面面，你一鑽牛角尖就變成主觀了。"
 msgstr ""
+"The Heart Sutra relates to everyone intimately, with observant comes clarity of being, do not hold onto limited views; if you do not know how to observe, you will be stuck in certain perspectives, "
+"therefore, one must know to objectively examine all aspects of oneself, limited perception amounts to subjectivity."
 
 #: ./ability-plus-success-could-be-heart-attack.txt:24
 msgid "※歡迎於「華嚴文化」網路書店購買《佛系職場智慧力》："
