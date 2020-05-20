@@ -373,7 +373,7 @@ msgid "不是想象"
 msgstr ""
 
 #: ./living_is_doing.txt:180
-msgid "不要去什么大谈"
+msgid "不要去什么大胆"
 msgstr ""
 
 #: ./living_is_doing.txt:182

@@ -375,7 +375,7 @@ msgid "不是想象"
 msgstr "Don't imagine,"
 
 #: ./living_is_doing.txt:180
-msgid "不要去什么大谈"
+msgid "不要去什么大胆"
 msgstr "don't make bold"
 
 #: ./living_is_doing.txt:182
