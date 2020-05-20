@@ -1,0 +1,838 @@
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-18 21:23+1100\n"
+"PO-Revision-Date: 2020-05-20 10:11+0000\n"
+"Last-Translator: Jerry <jerry.li.love@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
+
+#: ./living_is_doing.txt:2
+msgid "《生活即修行之：从“意识界”回到“现象界”》"
+msgstr "Living itself is spiritual doer-ship: Retreat from the realm of ideology to the realm of the phenomenon"
+
+#: ./living_is_doing.txt:4
+msgid "早晨起来"
+msgstr "Every morning after wake up,"
+
+#: ./living_is_doing.txt:6
+msgid "从刷牙洗脸开始"
+msgstr "starting from brushing teeth and washing face"
+
+#: ./living_is_doing.txt:8
+msgid "都在修行"
+msgstr "already is spiritual cultivation."
+
+#: ./living_is_doing.txt:10
+msgid "你在积累福报"
+msgstr "You are accumulating merits."
+
+#: ./living_is_doing.txt:12
+msgid "把自己整理好"
+msgstr "By making yourself tidy,"
+
+#: ./living_is_doing.txt:14
+msgid "这是一种"
+msgstr "is a type of"
+
+#: ./living_is_doing.txt:16
+msgid "对灵性的尊重"
+msgstr "respect towards one's spirituality."
+
+#: ./living_is_doing.txt:18
+msgid "我刷牙洗脸弄好"
+msgstr "I brush my teeth and wash my face properly,"
+
+#: ./living_is_doing.txt:20
+msgid "包括"
+msgstr "including,"
+
+#: ./living_is_doing.txt:22
+msgid "换洗沐浴"
+msgstr "changing after shower,"
+
+#: ./living_is_doing.txt:24
+msgid "我是在端正自己"
+msgstr "is to upright myself,"
+
+#: ./living_is_doing.txt:26
+msgid "那是完全不一样的"
+msgstr "which is a very different thing."
+
+#: ./living_is_doing.txt:28
+msgid "你早上起来梳头发"
+msgstr "In the morning, you comb your hair,"
+
+#: ./living_is_doing.txt:30
+msgid "女孩子最会整装化妆"
+msgstr "and if you are a girl, you would dress up and put makeup on."
+
+#: ./living_is_doing.txt:32
+msgid "梳理一下"
+msgstr "tidy up the hair a bit,"
+
+#: ./living_is_doing.txt:34
+msgid "不是为了谁"
+msgstr "not for someone,"
+
+#: ./living_is_doing.txt:36
+msgid "就是说"
+msgstr "that is,"
+
+#: ./living_is_doing.txt:38
+msgid "把自己端正一下"
+msgstr "simply decorating yourself (without any other motives)."
+
+#: ./living_is_doing.txt:40
+msgctxt "./living_is_doing.txt:40"
+msgid "这个"
+msgstr "This"
+
+#: ./living_is_doing.txt:42
+msgid "心里的那一份感受"
+msgstr "insight feeling of it"
+
+#: ./living_is_doing.txt:44
+msgid "是非常重要的"
+msgstr "is very important,"
+
+#: ./living_is_doing.txt:46
+msgid "包括把衣服穿好"
+msgstr "including dressing properly."
+
+#: ./living_is_doing.txt:48
+msgid "俗话讲的叫臭美，"
+msgstr "As the old saying goes: “Showing smug”,"
+
+#: ./living_is_doing.txt:50
+msgid "对着镜子"
+msgstr "while facing the mirror,"
+
+#: ./living_is_doing.txt:52
+msgid "自己不知道在美什么，"
+msgstr "you are not sure what you are feeling good about."
+
+#: ./living_is_doing.txt:54
+msgid "不是物质上的美，"
+msgstr "Not materially,"
+
+#: ./living_is_doing.txt:56
+msgid "心灵上的美。"
+msgstr "but the beauty from within."
+
+#: ./living_is_doing.txt:58
+msgid "我们说"
+msgstr "We say:"
+
+#: ./living_is_doing.txt:60
+msgid "人美是心里美"
+msgstr "\"A person’s beauty comes from within.\""
+
+#: ./living_is_doing.txt:62
+msgid "心里怎么美"
+msgstr "How so?"
+
+#: ./living_is_doing.txt:64
+msgid "你自己对着镜子照照看"
+msgstr "When you are checking yourself out in the mirror,"
+
+#: ./living_is_doing.txt:66
+msgid "这衣服穿起来多舒服啊，"
+msgstr "how comfortable the clothe you are wearing,"
+
+#: ./living_is_doing.txt:68
+msgid "因为你有这个福报，"
+msgstr "is just because you have this merit"
+
+#: ./living_is_doing.txt:70
+msgid "真正感受"
+msgstr "to really feel"
+
+#: ./living_is_doing.txt:72
+msgid "那个福报的存在，"
+msgstr "the existence of your blessing."
+
+#: ./living_is_doing.txt:74
+msgid "不是这衣服多贵"
+msgstr "It is not about the price of your clothes."
+
+#: ./living_is_doing.txt:76
+msgid "你要留意到这一点噢"
+msgstr "Be mindful of this."
+
+#: ./living_is_doing.txt:78
+msgid "你衣服洗干净的"
+msgstr "When you have fresh clothes,"
+
+#: ./living_is_doing.txt:80
+msgid "或者换新衣服了"
+msgstr "or new ones,"
+
+#: ./living_is_doing.txt:82
+msgid "都不要紧"
+msgstr "doesn't matter,"
+
+#: ./living_is_doing.txt:84
+msgid "穿下去"
+msgstr "put them on,"
+
+#: ./living_is_doing.txt:86
+msgid "自己感觉到那个舒畅"
+msgstr "you feel the comfort and pleasantness it brings,"
+
+#: ./living_is_doing.txt:88
+msgid "灵性的感受"
+msgstr "it is a spiritual sensation."
+
+#: ./living_is_doing.txt:90
+msgid "记得这一点"
+msgstr "Remember this,"
+
+#: ./living_is_doing.txt:92
+msgid "早上刷牙完了"
+msgstr "after you’ve done your morning wash-ups,"
+
+#: ./living_is_doing.txt:94
+msgid "有一件事情很重要"
+msgstr "one thing is vital,"
+
+#: ./living_is_doing.txt:96
+msgid "不管你是泡茶"
+msgstr "no matter whether you make tea,"
+
+#: ./living_is_doing.txt:98
+msgid "喝咖啡"
+msgstr "or drink coffee,"
+
+#: ./living_is_doing.txt:100
+msgid "或者白开水"
+msgstr "or even warm water,"
+
+#: ./living_is_doing.txt:102
+msgid "或者开水里面加点盐"
+msgstr "warm water with a bit of salt in it,"
+
+#: ./living_is_doing.txt:104
+msgid "记得这一点噢"
+msgstr "don't forget"
+
+#: ./living_is_doing.txt:106
+msgid "这一句话噢"
+msgstr "about this,"
+
+#: ./living_is_doing.txt:108
+msgid "喝下去"
+msgstr "when you drink it,"
+
+#: ./living_is_doing.txt:110
+msgid "当它通过喉咙的时候"
+msgstr "as it passes through your throat,"
+
+#: ./living_is_doing.txt:112
+msgid "你去感觉它"
+msgstr "fully sense and feel it."
+
+#: ./living_is_doing.txt:114
+msgid "这个通过的时候"
+msgstr "When it flows through (your throat),"
+
+#: ./living_is_doing.txt:116
+msgid "它的清理作用啊"
+msgstr "the purification effects"
+
+#: ./living_is_doing.txt:118
+msgid "非常重要"
+msgstr "is vital."
+
+#: ./living_is_doing.txt:120
+msgid "你去感受那个存在"
+msgstr "You out to feel that existence."
+
+#: ./living_is_doing.txt:122
+msgid "那个叫确实感受"
+msgstr "That's called: \"feel it as is\","
+
+#: ./living_is_doing.txt:124
+msgid "如实了知"
+msgstr "or \"knowing it as is\"."
+
+#: ./living_is_doing.txt:126
+msgid "去感受那个"
+msgstr "To feel,"
+
+#: ./living_is_doing.txt:128
+msgid "生命的存在"
+msgstr "the presence of life,"
+
+#: ./living_is_doing.txt:130
+msgid "这是一种色法"
+msgstr "That is one form of Rupa dharma (Form) and,"
+
+#: ./living_is_doing.txt:132
+msgctxt "./living_is_doing.txt:132"
+msgid "不是名法"
+msgstr "not Nama Dharma (Name),"
+
+#: ./living_is_doing.txt:134
+msgid "不是想象的"
+msgstr "not something imagined."
+
+#: ./living_is_doing.txt:136
+msgid "我现在跟你讲"
+msgstr "Now I am speaking to you,"
+
+#: ./living_is_doing.txt:138
+msgid "你听到那个感觉，"
+msgstr "and hearing about it."
+
+#: ./living_is_doing.txt:140
+msgid "嗯！是不错"
+msgstr "\"hm, it is pretty good.\""
+
+#: ./living_is_doing.txt:142
+msgid "那个是名法"
+msgstr "that (hm, pretty good) is Nama Dharma (Name)."
+
+#: ./living_is_doing.txt:144
+msgid "色法是"
+msgstr "Rupa Dharma (Form) is"
+
+#: ./living_is_doing.txt:146
+msgid "水喝下去的时候"
+msgstr "when you are drinking water,"
+
+#: ./living_is_doing.txt:148
+msgid "你感受那个舒畅"
+msgstr "you feel and enjoy that comfort and ease."
+
+#: ./living_is_doing.txt:150
+msgid "假如能够的话"
+msgstr "If you can,"
+
+#: ./living_is_doing.txt:152
+msgid "面对阳台"
+msgstr "face the balcony,"
+
+#: ./living_is_doing.txt:154
+msgid "面对外面"
+msgstr "face outside,"
+
+#: ./living_is_doing.txt:156
+msgid "你整个就从"
+msgstr "Immerse yourself totally in,"
+
+#: ./living_is_doing.txt:158
+msgctxt "./living_is_doing.txt:158"
+msgid "刷牙洗脸"
+msgstr "washing and brushing,"
+
+#: ./living_is_doing.txt:160
+msgid "这个沐浴更衣"
+msgstr "showering and dressing up..."
+
+#: ./living_is_doing.txt:162
+msgid "整个过程了"
+msgstr "the complete process,"
+
+#: ./living_is_doing.txt:164
+msgid "就全部"
+msgstr "whole of it,"
+
+#: ./living_is_doing.txt:166
+msgid "确确实实的感受一下"
+msgstr "see to experience every bit of it,"
+
+#: ./living_is_doing.txt:168
+msgid "然后"
+msgstr "and then,"
+
+#: ./living_is_doing.txt:170
+msgid "一天"
+msgstr "one day,"
+
+#: ./living_is_doing.txt:172
+msgid "从这个确实感受开始"
+msgstr "starting from that real sensation,"
+
+#: ./living_is_doing.txt:174
+msgid "你去面对"
+msgstr "you take on"
+
+#: ./living_is_doing.txt:176
+msgid "一切的环境"
+msgstr "the world."
+
+#: ./living_is_doing.txt:178
+msgid "不是想象"
+msgstr "Don't imagine,"
+
+#: ./living_is_doing.txt:180
+msgid "不要去什么大谈"
+msgstr "don't make bold"
+
+#: ./living_is_doing.txt:182
+msgid "假设啦"
+msgstr "assumptions, and"
+
+#: ./living_is_doing.txt:184
+msgid "合理推理啦"
+msgstr "logical reasoning."
+
+#: ./living_is_doing.txt:186
+msgid "那些都是妄想"
+msgstr "All those are illusions."
+
+#: ./living_is_doing.txt:188
+msgid "你去感受"
+msgstr "You just feel,"
+
+#: ./living_is_doing.txt:190
+msgid "这确实喝下去的感觉"
+msgstr "this true sensation of the water flowing down,"
+
+#: ./living_is_doing.txt:192
+msgid "你去感受到"
+msgstr "you go and feel,"
+
+#: ./living_is_doing.txt:194
+msgid "你体验到今天"
+msgstr "you feel that today,"
+
+#: ./living_is_doing.txt:196
+msgid "你自我整理的时候"
+msgstr "when you are tidying up yourself,"
+
+#: ./living_is_doing.txt:198
+msgid "那种舒畅的感觉"
+msgstr "that sensation of comfort and ease."
+
+#: ./living_is_doing.txt:200
+msgid "你就逐渐的会从意识形态"
+msgstr "then gradually, you will switch from,"
+
+#: ./living_is_doing.txt:202
+msgid "意识界里"
+msgstr "the realm of ideology,"
+
+#: ./living_is_doing.txt:204
+msgid "回到现象界"
+msgstr "back to the realm of phenomenon."
+
+#: ./living_is_doing.txt:206
+msgid "告诉你这个是"
+msgstr "Listen,"
+
+#: ./living_is_doing.txt:208
+msgid "非常重要的一个根本"
+msgstr "this is a fundamental (doing)."
+
+#: ./living_is_doing.txt:210
+msgid "因为我们现代人啊"
+msgstr "We the people, in the modern age,"
+
+#: ./living_is_doing.txt:212
+msgid "都活在"
+msgstr "all live"
+
+#: ./living_is_doing.txt:214
+msgid "福报的意识形态里"
+msgstr "in the false sense of happiness,"
+
+#: ./living_is_doing.txt:216
+msgid "这个是很麻烦的"
+msgstr "which makes it quite troublesome."
+
+#: ./living_is_doing.txt:218
+msgctxt "./living_is_doing.txt:218"
+msgid "所以"
+msgstr "Therefore,"
+
+#: ./living_is_doing.txt:220
+msgid "为什么说"
+msgstr "that’s why we say,"
+
+#: ./living_is_doing.txt:222
+msgid "早上起来一定要做的那10件事"
+msgstr "we must do these ten things after we are up in the morning:"
+
+#: ./living_is_doing.txt:224
+msgctxt "./living_is_doing.txt:224"
+msgid "刷牙洗脸"
+msgstr "brushing and washing,"
+
+#: ./living_is_doing.txt:226
+msgid "甚至于连眼睛清一清"
+msgstr "even down to cleaning our eyes,"
+
+#: ./living_is_doing.txt:228
+msgid "鼻子清一清"
+msgstr "and nose,"
+
+#: ./living_is_doing.txt:230
+msgid "耳朵挖一挖"
+msgstr "our ears,"
+
+#: ./living_is_doing.txt:232
+msgid "这个都是实际的问题呀"
+msgstr "these are the real practical matters to attend."
+
+#: ./living_is_doing.txt:234
+msgid "那你何必急呢"
+msgstr "Why are you rushing?"
+
+#: ./living_is_doing.txt:236
+msgid "为什么一定睡觉睡到那个时候"
+msgstr "Why do you have to sleep until the last minute and"
+
+#: ./living_is_doing.txt:238
+msgid "5分钟就把这些都解决了"
+msgstr "only give yourself five minutes to do all these things?"
+
+#: ./living_is_doing.txt:240
+msgid "那你一辈子都匆匆忙忙的走过去"
+msgstr "If so, then you are going to live your whole life in a hurry."
+
+#: ./living_is_doing.txt:242
+msgid "你腾一个小时"
+msgstr "Set aside one hour in the morning,"
+
+#: ./living_is_doing.txt:244
+msgid "早上起来一个小时梳理一下"
+msgstr "use one hour to get ready."
+
+#: ./living_is_doing.txt:246
+msgid "告诉你啊"
+msgstr "I am telling you,"
+
+#: ./living_is_doing.txt:248
+msgctxt "./living_is_doing.txt:248"
+msgid "真正的福报"
+msgstr "this is the real blessing,"
+
+#: ./living_is_doing.txt:250
+msgctxt "./living_is_doing.txt:250"
+msgid "真正的福报"
+msgstr "real treasure (of your life),"
+
+#: ./living_is_doing.txt:252
+msgctxt "./living_is_doing.txt:252"
+msgid "这个"
+msgstr "This is,"
+
+#: ./living_is_doing.txt:254
+msgid "在家人最重要的修法"
+msgstr "the most important spiritual method a layperson can use at home."
+
+#: ./living_is_doing.txt:256
+msgid "大家要知道噢"
+msgstr "Everyone should know this,"
+
+#: ./living_is_doing.txt:258
+msgid "五官上面的清理噢"
+msgstr "The cleansing of the five facial features,"
+
+#: ./living_is_doing.txt:260
+msgid "跟你色身沐浴呀"
+msgstr "and the body,"
+
+#: ./living_is_doing.txt:262
+msgctxt "./living_is_doing.txt:262"
+msgid "是大脑直接控制的"
+msgstr "are of a brain dominated act,"
+
+#: ./living_is_doing.txt:264
+msgid "大脑直接控制的噢"
+msgstr "(those movements) are directly controlled by our brain."
+
+#: ./living_is_doing.txt:266
+msgid "四肢五官呐"
+msgstr "Our four limbs and five sense organs,"
+
+#: ./living_is_doing.txt:268
+msgctxt "./living_is_doing.txt:268"
+msgid "是大脑直接控制的"
+msgstr "are under the direct control of the brain."
+
+#: ./living_is_doing.txt:270
+msgid "内脏呐"
+msgstr "(However), the internal organs are,"
+
+#: ./living_is_doing.txt:272
+msgid "是脊椎控制的"
+msgstr "controlled by the spine."
+
+#: ./living_is_doing.txt:274
+msgid "大脑管不到"
+msgstr "Uncontaminated by the brain,"
+
+#: ./living_is_doing.txt:276
+msgid "胃的收缩"
+msgstr "the brain cannot contract or expand the stomach."
+
+#: ./living_is_doing.txt:278
+msgid "那是不随意肌呀"
+msgstr "They are involuntary muscles."
+
+#: ./living_is_doing.txt:280
+msgid "五官的部分呐"
+msgstr "Our five sense organs,"
+
+#: ./living_is_doing.txt:282
+msgid "跟四肢呀"
+msgstr "and four limbs,"
+
+#: ./living_is_doing.txt:284
+msgid "是随意肌"
+msgstr "are voluntary muscles,"
+
+#: ./living_is_doing.txt:286
+msgid "所以是大脑控制的"
+msgstr "therefore are regulated by our brain."
+
+#: ./living_is_doing.txt:288
+msgid "那你把大脑对外的妄想"
+msgstr "If you redirect your outward illusionary thoughts"
+
+#: ./living_is_doing.txt:290
+msgid "直接回到"
+msgstr "back to"
+
+#: ./living_is_doing.txt:292
+msgid "大脑所管理的这几个器官来"
+msgstr "these organs managed by brain,"
+
+#: ./living_is_doing.txt:294
+msgid "你的大脑"
+msgstr "your brain,"
+
+#: ./living_is_doing.txt:296
+msgid "活动呐，"
+msgstr "its activities,"
+
+#: ./living_is_doing.txt:298
+msgid "就会恢复正常。 "
+msgstr "will then return to normal."
+
+#: ./living_is_doing.txt:300
+msgid "当你的大脑，"
+msgstr "The brain,"
+
+#: ./living_is_doing.txt:302
+msgid "它的"
+msgstr "when"
+
+#: ./living_is_doing.txt:304
+msgid "用名法的时候，"
+msgstr "operates in the form of Nama Dharma (Name),"
+
+#: ./living_is_doing.txt:306
+msgid "完全是虚妄的"
+msgstr "is utterly illusory."
+
+#: ./living_is_doing.txt:308
+msgid "他在一个地方要用"
+msgstr "It is (only) useful in one case,"
+
+#: ./living_is_doing.txt:310
+msgid "解决困难的时候"
+msgstr "that is, to solve problems."
+
+#: ./living_is_doing.txt:312
+msgid "记得噢"
+msgstr "Remember,"
+
+#: ./living_is_doing.txt:314
+msgid "解决"
+msgstr "to solve problems,"
+
+#: ./living_is_doing.txt:316
+msgid "大脑用来解决困难的时候"
+msgstr "When solving problems with the brain,"
+
+#: ./living_is_doing.txt:318
+msgid "这个是色法"
+msgstr "is Rupa Dharma (Form),"
+
+#: ./living_is_doing.txt:320
+msgctxt "./living_is_doing.txt:320"
+msgid "不是名法"
+msgstr "not Nama Dharma (Name)."
+
+#: ./living_is_doing.txt:322
+msgid "但是"
+msgstr "However,"
+
+#: ./living_is_doing.txt:324
+msgid "大脑透过名法"
+msgstr "problems arose,"
+
+#: ./living_is_doing.txt:326
+msgid "去产生的困难"
+msgstr "through the wrong usage of the brain (through “name” or concepts),"
+
+#: ./living_is_doing.txt:328
+msgid "那是虚幻的"
+msgstr "are delusional."
+
+#: ./living_is_doing.txt:330
+msgctxt "./living_is_doing.txt:330"
+msgid "所以"
+msgstr "Therefore,"
+
+#: ./living_is_doing.txt:332
+msgid "你要透过这个虚幻的载体"
+msgstr "you want to use these objects or problems"
+
+#: ./living_is_doing.txt:334
+msgid "上面所创造出来的东西"
+msgstr "derived from the medium of unreality,"
+
+#: ./living_is_doing.txt:336
+msgid "去解决它"
+msgstr "and in the process of tackling them,"
+
+#: ./living_is_doing.txt:338
+msgid "然后把虚幻的拆掉"
+msgstr "deconstruct the unreal,"
+
+#: ./living_is_doing.txt:340
+msgid "你就掉到真实的地方来了"
+msgstr "you will then fall right into the realm of phenomenon reality (Phenomenon Realm)."
+
+#: ./living_is_doing.txt:342
+msgid "从这地方开始修行"
+msgstr "Spiritual doer-ship starts from here."
+
+#: ./living_is_doing.txt:344
+msgid "所以我们说"
+msgstr "Therefore, we say,"
+
+#: ./living_is_doing.txt:346
+msgid "只要你会解决困难"
+msgstr "if you know how to solve problems,"
+
+#: ./living_is_doing.txt:348
+msgid "你看到困难"
+msgstr "and see problems,"
+
+#: ./living_is_doing.txt:350
+msgid "会解决困难"
+msgstr "and can resolve them,"
+
+#: ./living_is_doing.txt:352
+msgid "虽然在红尘中"
+msgstr "even though still in the worldly things,"
+
+#: ./living_is_doing.txt:354
+msgid "只要你回到现实"
+msgstr "as long as you can return to the \"phenomenon world\","
+
+#: ./living_is_doing.txt:356
+msgid "来修行的话"
+msgstr "and by doing this,"
+
+#: ./living_is_doing.txt:358
+msgid "成就是很快的"
+msgstr "the attainment will be swift,"
+
+#: ./living_is_doing.txt:360
+msgid "因为你有解决困难的能力"
+msgstr "because you have the means to deal with your challenges."
+
+#: ./living_is_doing.txt:362
+msgid "那你一生都没有看到困难"
+msgstr "In your whole life, you fail to see any existence of problems,"
+
+#: ./living_is_doing.txt:364
+msgid "所以你都没有解决困难"
+msgstr "so you do not get to solve any of them,"
+
+#: ./living_is_doing.txt:366
+msgid "所以你就不会解决困难"
+msgstr "and you will not develop the ability to solve problems."
+
+#: ./living_is_doing.txt:368
+msgid "你知道吗"
+msgstr "Do you know this?"
+
+#: ./living_is_doing.txt:370
+msgid "你会看到困难"
+msgstr "You would only want to (challenge yourself and) solve problems,"
+
+#: ./living_is_doing.txt:372
+msgid "所以你才会去解决困难"
+msgstr "because you are able to discover them."
+
+#: ./living_is_doing.txt:374
+msgid "虽然这个时候是在红尘里"
+msgstr "Even still in the worldly terms,"
+
+#: ./living_is_doing.txt:376
+msgid "名法的虚幻"
+msgstr "embedded in the delusion of “Name” and concepts,"
+
+#: ./living_is_doing.txt:378
+msgid "可是你会解决困难"
+msgstr "but because you are capable of problem solving,"
+
+#: ./living_is_doing.txt:380
+msgid "这是真实的能力"
+msgstr "then this is a real strength."
+
+#: ./living_is_doing.txt:382
+msgid "所以当它回到色法"
+msgstr "So, when you are back to the Rupa dharma (Form),"
+
+#: ./living_is_doing.txt:384
+msgid "你要去解决困难的时候"
+msgstr "and when solving problems,"
+
+#: ./living_is_doing.txt:386
+msgid "修行就很快"
+msgstr "your spiritual transcendence will be,"
+
+#: ./living_is_doing.txt:388
+msgid "会超越"
+msgstr "very rapid."
+
+#: ./living_is_doing.txt:390
+msgid "解决困难"
+msgstr "Problem-solving itself,"
+
+#: ./living_is_doing.txt:392
+msgid "是一种超越"
+msgstr "is a type of transcendence,"
+
+#: ./living_is_doing.txt:394
+msgid "是一种突破"
+msgstr "going beyond."
+
+#: ./living_is_doing.txt:396
+msgid "因为我们不希望你"
+msgstr "All this is because we do not wish you to,"
+
+#: ./living_is_doing.txt:398
+msgid "浮在那个虚幻的地方"
+msgstr "be floating in that delusional realm."
+
+#: ./living_is_doing.txt:400
+msgid "是因为你在那里"
+msgstr "Over there,"
+
+#: ./living_is_doing.txt:402
+msgctxt "./living_is_doing.txt:402"
+msgid "只会造业"
+msgstr "you will only be,"
+
+#: ./living_is_doing.txt:403
+msgctxt "./living_is_doing.txt:403"
+msgid "只会造业"
+msgstr ""
