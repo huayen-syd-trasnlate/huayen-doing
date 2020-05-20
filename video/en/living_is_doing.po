@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-18 21:23+1100\n"
-"PO-Revision-Date: 2020-05-20 11:16+0000\n"
+"PO-Revision-Date: 2020-05-20 15:41+0000\n"
 "Last-Translator: Jerry <jerry.li.love@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: ./living_is_doing.txt:2
 msgid "《生活即修行之：从“意识界”回到“现象界”》"
-msgstr "Living itself is spiritual doer-ship: Retreat from the realm of ideology to the realm of the phenomenon"
+msgstr "Living itself is spiritual doer-ship: Retreat from the realm of ideology to the realm of phenomenon"
 
 #: ./living_is_doing.txt:4
 msgid "早晨起来"
@@ -25,7 +25,7 @@ msgstr "Every morning after wake up,"
 
 #: ./living_is_doing.txt:6
 msgid "从刷牙洗脸开始"
-msgstr "starting from brushing teeth and washing face"
+msgstr "starting from brushing teeth and washing face,"
 
 #: ./living_is_doing.txt:8
 msgid "都在修行"
@@ -73,7 +73,7 @@ msgstr "In the morning, you comb your hair,"
 
 #: ./living_is_doing.txt:30
 msgid "女孩子最会整装化妆"
-msgstr "and if you are a girl, you would dress up and put makeup on."
+msgstr "and if you are a girl, you would dress up and put makeup on,"
 
 #: ./living_is_doing.txt:32
 msgid "梳理一下"
@@ -146,11 +146,11 @@ msgstr "When you are checking yourself out in the mirror,"
 
 #: ./living_is_doing.txt:66
 msgid "这衣服穿起来多舒服啊，"
-msgstr "how comfortable the clothe you are wearing,"
+msgstr "how comfortable the clothe you are wearing!"
 
 #: ./living_is_doing.txt:68
 msgid "因为你有这个福报，"
-msgstr "is just because you have this merit"
+msgstr "It's just because you have the merit"
 
 #: ./living_is_doing.txt:70
 msgid "真正感受"
@@ -170,7 +170,7 @@ msgstr "Be mindful of this."
 
 #: ./living_is_doing.txt:78
 msgid "你衣服洗干净的"
-msgstr "When you have fresh clothes,"
+msgstr "Whether you have fresh clothes,"
 
 #: ./living_is_doing.txt:80
 msgid "或者换新衣服了"
@@ -182,11 +182,11 @@ msgstr "doesn't matter,"
 
 #: ./living_is_doing.txt:84
 msgid "穿下去"
-msgstr "put them on,"
+msgstr "put them on."
 
 #: ./living_is_doing.txt:86
 msgid "自己感觉到那个舒畅"
-msgstr "you feel the comfort and pleasantness it brings,"
+msgstr "You feel the comfort and pleasantness it brings,"
 
 #: ./living_is_doing.txt:88
 msgid "灵性的感受"
@@ -254,7 +254,7 @@ msgstr "is vital."
 
 #: ./living_is_doing.txt:120
 msgid "你去感受那个存在"
-msgstr "You out to feel that existence."
+msgstr "You out to feel that existence!"
 
 #: ./living_is_doing.txt:122
 msgid "那个叫确实感受"
@@ -266,11 +266,11 @@ msgstr "or \"knowing it as is\"."
 
 #: ./living_is_doing.txt:126
 msgid "去感受那个"
-msgstr "To feel,"
+msgstr "To feel"
 
 #: ./living_is_doing.txt:128
 msgid "生命的存在"
-msgstr "the presence of life,"
+msgstr "the presence of life..."
 
 #: ./living_is_doing.txt:130
 msgid "这是一种色法"
@@ -291,15 +291,15 @@ msgstr "Now I am speaking to you,"
 
 #: ./living_is_doing.txt:138
 msgid "你听到那个感觉，"
-msgstr "and hearing about it."
+msgstr "and hearing about it,"
 
 #: ./living_is_doing.txt:140
 msgid "嗯！是不错"
-msgstr "\"hm, it is pretty good.\""
+msgstr "\"Hm, it is pretty good.\""
 
 #: ./living_is_doing.txt:142
 msgid "那个是名法"
-msgstr "that (hm, pretty good) is Nama Dharma (Name)."
+msgstr "that (Hm, pretty good) is Nama Dharma (Name)."
 
 #: ./living_is_doing.txt:144
 msgid "色法是"
@@ -315,7 +315,7 @@ msgstr "you feel and enjoy that comfort and ease."
 
 #: ./living_is_doing.txt:150
 msgid "假如能够的话"
-msgstr "If you can,"
+msgstr "(So) if you can,"
 
 #: ./living_is_doing.txt:152
 msgid "面对阳台"
@@ -327,7 +327,7 @@ msgstr "face outside,"
 
 #: ./living_is_doing.txt:156
 msgid "你整个就从"
-msgstr "Immerse yourself totally in,"
+msgstr "immerse yourself totally in,"
 
 #: ./living_is_doing.txt:158
 msgctxt "./living_is_doing.txt:158"
@@ -340,7 +340,7 @@ msgstr "showering and dressing up..."
 
 #: ./living_is_doing.txt:162
 msgid "整个过程了"
-msgstr "the complete process,"
+msgstr "The complete process,"
 
 #: ./living_is_doing.txt:164
 msgid "就全部"
@@ -348,11 +348,11 @@ msgstr "whole of it,"
 
 #: ./living_is_doing.txt:166
 msgid "确确实实的感受一下"
-msgstr "see to experience every bit of it,"
+msgstr "see to experience every bit of it."
 
 #: ./living_is_doing.txt:168
 msgid "然后"
-msgstr "and then,"
+msgstr "And then,"
 
 #: ./living_is_doing.txt:170
 msgid "一天"
@@ -380,7 +380,7 @@ msgstr "don't make bold"
 
 #: ./living_is_doing.txt:182
 msgid "假设啦"
-msgstr "assumptions, and"
+msgstr "assumptions, or"
 
 #: ./living_is_doing.txt:184
 msgid "合理推理啦"
@@ -400,15 +400,15 @@ msgstr "this true sensation of the water flowing down,"
 
 #: ./living_is_doing.txt:192
 msgid "你去感受到"
-msgstr "you go and feel,"
+msgstr "you go and feel it."
 
 #: ./living_is_doing.txt:194
 msgid "你体验到今天"
-msgstr "you feel that today,"
+msgstr "Today you experience"
 
 #: ./living_is_doing.txt:196
 msgid "你自我整理的时候"
-msgstr "when you are tidying up yourself,"
+msgstr "tidying up yourself,"
 
 #: ./living_is_doing.txt:198
 msgid "那种舒畅的感觉"
@@ -416,7 +416,7 @@ msgstr "that sensation of comfort and ease."
 
 #: ./living_is_doing.txt:200
 msgid "你就逐渐的会从意识形态"
-msgstr "then gradually, you will switch from,"
+msgstr "Then gradually, you will switch from,"
 
 #: ./living_is_doing.txt:202
 msgid "意识界里"
@@ -461,7 +461,7 @@ msgstr "that’s why we say,"
 
 #: ./living_is_doing.txt:222
 msgid "早上起来一定要做的那10件事"
-msgstr "we must do these ten things after we are up in the morning:"
+msgstr "we must do these ten things after we wake up in the morning:"
 
 #: ./living_is_doing.txt:224
 msgctxt "./living_is_doing.txt:224"
@@ -490,11 +490,11 @@ msgstr "Why are you rushing?"
 
 #: ./living_is_doing.txt:236
 msgid "为什么一定睡觉睡到那个时候"
-msgstr "Why do you have to sleep until the last minute and"
+msgstr "Why do you have to sleep until the last minute"
 
 #: ./living_is_doing.txt:238
 msgid "5分钟就把这些都解决了"
-msgstr "only give yourself five minutes to do all these things?"
+msgstr "and only give yourself five minutes to do all these things?"
 
 #: ./living_is_doing.txt:240
 msgid "那你一辈子都匆匆忙忙的走过去"
@@ -520,7 +520,7 @@ msgstr "this is the real blessing,"
 #: ./living_is_doing.txt:250
 msgctxt "./living_is_doing.txt:250"
 msgid "真正的福报"
-msgstr "real treasure (of your life),"
+msgstr "real treasure (of your life)."
 
 #: ./living_is_doing.txt:252
 msgctxt "./living_is_doing.txt:252"
@@ -607,7 +607,7 @@ msgstr "back to"
 
 #: ./living_is_doing.txt:292
 msgid "大脑所管理的这几个器官来"
-msgstr "these organs managed by brain,"
+msgstr "these organs managed by the brain,"
 
 #: ./living_is_doing.txt:294
 msgid "你的大脑"
@@ -631,7 +631,7 @@ msgstr "when"
 
 #: ./living_is_doing.txt:304
 msgid "用名法的时候，"
-msgstr "operates in the form of Nama Dharma (Name),"
+msgstr "operates in the mode of Nama Dharma (Name),"
 
 #: ./living_is_doing.txt:306
 msgid "完全是虚妄的"
@@ -651,11 +651,11 @@ msgstr "Remember,"
 
 #: ./living_is_doing.txt:314
 msgid "解决"
-msgstr "to solve problems,"
+msgstr "to"
 
 #: ./living_is_doing.txt:316
 msgid "大脑用来解决困难的时候"
-msgstr "When solving problems with the brain,"
+msgstr "use the brain to solve problems"
 
 #: ./living_is_doing.txt:318
 msgid "这个是色法"
@@ -717,15 +717,15 @@ msgstr "Therefore, we say,"
 
 #: ./living_is_doing.txt:346
 msgid "只要你会解决困难"
-msgstr "if you know how to solve problems,"
+msgstr "if you are capable of problem-solving,"
 
 #: ./living_is_doing.txt:348
 msgid "你看到困难"
-msgstr "and see problems,"
+msgstr "and can find problems,"
 
 #: ./living_is_doing.txt:350
 msgid "会解决困难"
-msgstr "and can resolve them,"
+msgstr "and then resolve them,"
 
 #: ./living_is_doing.txt:352
 msgid "虽然在红尘中"
@@ -733,15 +733,15 @@ msgstr "even though still in the worldly things,"
 
 #: ./living_is_doing.txt:354
 msgid "只要你回到现实"
-msgstr "as long as you can return to the \"phenomenon world\","
+msgstr "as long as you return to the \"phenomenon world\","
 
 #: ./living_is_doing.txt:356
 msgid "来修行的话"
-msgstr "and by doing this,"
+msgstr "then your spiritual"
 
 #: ./living_is_doing.txt:358
 msgid "成就是很快的"
-msgstr "the attainment will be swift,"
+msgstr "attainment will be swift,"
 
 #: ./living_is_doing.txt:360
 msgid "因为你有解决困难的能力"
@@ -773,19 +773,19 @@ msgstr "because you are able to discover them."
 
 #: ./living_is_doing.txt:374
 msgid "虽然这个时候是在红尘里"
-msgstr "Even still in the worldly terms,"
+msgstr "Even in the worldly terms,"
 
 #: ./living_is_doing.txt:376
 msgid "名法的虚幻"
-msgstr "embedded in the delusion of “Name” and concepts,"
+msgstr "while still being embedded in the delusion of “Name” and concepts,"
 
 #: ./living_is_doing.txt:378
 msgid "可是你会解决困难"
-msgstr "but because you are capable of problem solving,"
+msgstr "but because you are capable of problem-solving,"
 
 #: ./living_is_doing.txt:380
 msgid "这是真实的能力"
-msgstr "then this is a real strength."
+msgstr "that becomes (your) real strength."
 
 #: ./living_is_doing.txt:382
 msgid "所以当它回到色法"
@@ -797,7 +797,7 @@ msgstr "and when solving problems,"
 
 #: ./living_is_doing.txt:386
 msgid "修行就很快"
-msgstr "your spiritual transcendence will be,"
+msgstr "your spiritual transcendence will be"
 
 #: ./living_is_doing.txt:388
 msgid "会超越"
@@ -825,7 +825,7 @@ msgstr "be floating in that delusional realm."
 
 #: ./living_is_doing.txt:400
 msgid "是因为你在那里"
-msgstr "Over there,"
+msgstr "As while you are over there,"
 
 #: ./living_is_doing.txt:402
 msgctxt "./living_is_doing.txt:402"
@@ -835,4 +835,4 @@ msgstr "you will only be"
 #: ./living_is_doing.txt:403
 msgctxt "./living_is_doing.txt:403"
 msgid "只会造业"
-msgstr "amounting to more and more karma."
+msgstr "amounting yourself more and more karma."
