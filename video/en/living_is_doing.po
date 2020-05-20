@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-18 21:23+1100\n"
-"PO-Revision-Date: 2020-05-20 00:54+0000\n"
-"Last-Translator: May <irenemuhj@gmail.com>\n"
+"PO-Revision-Date: 2020-05-20 11:16+0000\n"
+"Last-Translator: Jerry <jerry.li.love@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -805,7 +805,7 @@ msgstr "very rapid."
 
 #: ./living_is_doing.txt:390
 msgid "解决困难"
-msgstr "Problem-solving itself,"
+msgstr "Problem-solving itself"
 
 #: ./living_is_doing.txt:392
 msgid "是一种超越"
@@ -817,7 +817,7 @@ msgstr "going beyond."
 
 #: ./living_is_doing.txt:396
 msgid "因为我们不希望你"
-msgstr "All this is because we do not wish you to,"
+msgstr "All this is because we do not wish you to"
 
 #: ./living_is_doing.txt:398
 msgid "浮在那个虚幻的地方"
@@ -830,7 +830,7 @@ msgstr "Over there,"
 #: ./living_is_doing.txt:402
 msgctxt "./living_is_doing.txt:402"
 msgid "只会造业"
-msgstr "you will only be,"
+msgstr "you will only be"
 
 #: ./living_is_doing.txt:403
 msgctxt "./living_is_doing.txt:403"
