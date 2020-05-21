@@ -78,7 +78,7 @@ msgid "因为谈这个部分，大概要四十个小时"
 msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:34
-msgid "分两个阶段讲 "
+msgid "分两个阶段讲"
 msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:36
