@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-18 21:23+1100\n"
-"PO-Revision-Date: 2020-05-21 00:05+0000\n"
+"PO-Revision-Date: 2020-05-21 00:14+0000\n"
 "Last-Translator: Jerry <jerry.li.love@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
@@ -595,7 +595,7 @@ msgstr "are voluntary muscles,"
 
 #: ./living_is_doing.txt:286
 msgid "所以是大脑控制的"
-msgstr "therefore are regulated by our brain."
+msgstr "therefore, are regulated by our brain."
 
 #: ./living_is_doing.txt:288
 msgid "那你把大脑对外的妄想"
@@ -789,7 +789,7 @@ msgstr "that becomes (your) real strength."
 
 #: ./living_is_doing.txt:382
 msgid "所以当它回到色法"
-msgstr "So, when you are back to the Rupa dharma (Form),"
+msgstr "So when you are back to the Rupa dharma (Form),"
 
 #: ./living_is_doing.txt:384
 msgid "你要去解决困难的时候"
