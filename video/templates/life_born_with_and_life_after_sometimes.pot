@@ -1,10 +1,10 @@
-#. extracted from ./life_born_with_and_life_after_sometime.txt
+#. extracted from ./life_born_with_and_life_after_sometimes.txt
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-21 21:31+1100\n"
+"POT-Creation-Date: 2020-05-21 21:48+1100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,94 +13,94 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.5.0\n"
 
-#: ./life_born_with_and_life_after_sometime.txt:2
+#: ./life_born_with_and_life_after_sometimes.txt:2
 msgid "《生命学之先天性生命和后天性生命》"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:4
+#: ./life_born_with_and_life_after_sometimes.txt:4
 msgid "身体的出生，不等于生命的出生。"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:6
+#: ./life_born_with_and_life_after_sometimes.txt:6
 msgid "身体出生以后，大概要到六岁。 "
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:8
+#: ./life_born_with_and_life_after_sometimes.txt:8
 msgid "六年以后，生命才降生。"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:10
+#: ./life_born_with_and_life_after_sometimes.txt:10
 msgid "这一点呢，各位可能都没留意到⋯⋯"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:12
+#: ./life_born_with_and_life_after_sometimes.txt:12
 msgid "身体出生的时候，跟着身体来的是先天性的生命。"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:14
+#: ./life_born_with_and_life_after_sometimes.txt:14
 msgid "大约在六岁的时候，后天性生命才来临。 "
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:16
+#: ./life_born_with_and_life_after_sometimes.txt:16
 msgid "而各位所认知的生命，"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:18
+#: ./life_born_with_and_life_after_sometimes.txt:18
 msgid "应该都是后天性生命。 "
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:20
+#: ./life_born_with_and_life_after_sometimes.txt:20
 msgid "右脑他是实践跟兑现，"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:22
+#: ./life_born_with_and_life_after_sometimes.txt:22
 msgid "左脑是记忆跟逻辑。"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:24
+#: ./life_born_with_and_life_after_sometimes.txt:24
 msgid "所以先天性生命是透过右脑进来的，"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:26
+#: ./life_born_with_and_life_after_sometimes.txt:26
 msgid "而后天性生命是透过左脑的运作。"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:28
+#: ./life_born_with_and_life_after_sometimes.txt:28
 msgid "涉及到比较精深跟微细的部分"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:30
+#: ./life_born_with_and_life_after_sometimes.txt:30
 msgid "我们这里就不跟各位讲。"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:32
+#: ./life_born_with_and_life_after_sometimes.txt:32
 msgid "因为谈这个部分，大概要四十个小时"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:34
+#: ./life_born_with_and_life_after_sometimes.txt:34
 msgid "分两个阶段讲 "
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:36
+#: ./life_born_with_and_life_after_sometimes.txt:36
 msgid "第一个身体跟生命是二非一"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:38
+#: ./life_born_with_and_life_after_sometimes.txt:38
 msgid "第二个先天性生命跟后天性生命。 "
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:40
+#: ./life_born_with_and_life_after_sometimes.txt:40
 msgid "是不一样的，"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:42
+#: ./life_born_with_and_life_after_sometimes.txt:42
 msgid "这个部分叫做生命学"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:44
+#: ./life_born_with_and_life_after_sometimes.txt:44
 msgid "生命学这个词汇呀是我定的，"
 msgstr ""
 
-#: ./life_born_with_and_life_after_sometime.txt:45
+#: ./life_born_with_and_life_after_sometimes.txt:45
 msgid "跟外面所讲的生命科学不同。"
 msgstr ""
