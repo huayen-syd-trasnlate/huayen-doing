@@ -17,11 +17,11 @@ msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:2
 msgid "《生命学之先天性生命和后天性生命》"
-msgstr "Innate life and adapted life in Life-ology"
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:4
 msgid "身体的出生，不等于生命的出生。"
-msgstr "A birth of physical body is not the same as a birth of a life."
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:6
 msgid "身体出生以后，大概要到六岁。"
@@ -29,15 +29,15 @@ msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:8
 msgid "六年以后，生命才降生。"
-msgstr "A life is truly formed."
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:10
 msgid "这一点呢，各位可能都没留意到⋯⋯"
-msgstr "You probably have not noticed..."
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:12
 msgid "身体出生的时候，跟着身体来的是先天性的生命。"
-msgstr "What comes along with the birth of body is the innate life."
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:14
 msgid "大约在六岁的时候，后天性生命才来临。"
@@ -45,7 +45,7 @@ msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:16
 msgid "而各位所认知的生命，"
-msgstr "The definition of life that we are familiar with…"
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:18
 msgid "应该都是后天性生命。"
@@ -53,31 +53,31 @@ msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:20
 msgid "右脑他是实践跟兑现，"
-msgstr "The right brain's function is to act and fulfill."
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:22
 msgid "左脑是记忆跟逻辑。"
-msgstr "The function of 'left brain' is to memorize and deal with logic."
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:24
 msgid "所以先天性生命是透过右脑进来的，"
-msgstr "So, the innate life is entered through the 'right brain',"
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:26
 msgid "而后天性生命是透过左脑的运作。"
-msgstr "While the adapted life is emerged through the working of the 'left brain'."
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:28
 msgid "涉及到比较精深跟微细的部分"
-msgstr "The profound detail of the working process is lengthy,"
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:30
 msgid "我们这里就不跟各位讲。"
-msgstr "We will not elaborate it here."
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:32
 msgid "因为谈这个部分，大概要四十个小时"
-msgstr "As it would take up about another forty hours."
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:34
 msgid "分两个阶段讲 "
@@ -85,7 +85,7 @@ msgstr "Here we separate the subject into two sub-contents:"
 
 #: ./life_born_with_and_life_after_sometimes.txt:36
 msgid "第一个身体跟生命是二非一"
-msgstr "First, the body and life are two and not one. (about the difference between body and life)"
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:38
 msgid "第二个先天性生命跟后天性生命。"
@@ -93,16 +93,16 @@ msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:40
 msgid "是不一样的，"
-msgstr "Are not the same,"
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:42
 msgid "这个部分叫做生命学"
-msgstr "Where the study of this part is Life-ology."
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:44
 msgid "生命学这个词汇呀是我定的，"
-msgstr "The term of “Life-ology” is created by me."
+msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:45
 msgid "跟外面所讲的生命科学不同。"
-msgstr "It is different from Life Science studied and taught elsewhere."
+msgstr ""
