@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-18 21:23+1100\n"
-"PO-Revision-Date: 2020-05-20 15:41+0000\n"
+"PO-Revision-Date: 2020-05-21 00:05+0000\n"
 "Last-Translator: Jerry <jerry.li.love@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
@@ -49,7 +49,7 @@ msgstr "respect towards one's spirituality."
 
 #: ./living_is_doing.txt:18
 msgid "我刷牙洗脸弄好"
-msgstr "I brush my teeth and wash my face properly,"
+msgstr "You brush your teeth and wash your face properly,"
 
 #: ./living_is_doing.txt:20
 msgid "包括"
@@ -61,7 +61,7 @@ msgstr "changing after shower,"
 
 #: ./living_is_doing.txt:24
 msgid "我是在端正自己"
-msgstr "is to upright myself,"
+msgstr "is to upright yourself,"
 
 #: ./living_is_doing.txt:26
 msgid "那是完全不一样的"
@@ -146,7 +146,7 @@ msgstr "When you are checking yourself out in the mirror,"
 
 #: ./living_is_doing.txt:66
 msgid "这衣服穿起来多舒服啊，"
-msgstr "how comfortable the clothe you are wearing!"
+msgstr "how comfortable the clothes you are wearing!"
 
 #: ./living_is_doing.txt:68
 msgid "因为你有这个福报，"
@@ -262,7 +262,7 @@ msgstr "That's called: \"feel it as is\","
 
 #: ./living_is_doing.txt:124
 msgid "如实了知"
-msgstr "or \"knowing it as is\"."
+msgstr "or \"know it as is\"."
 
 #: ./living_is_doing.txt:126
 msgid "去感受那个"
@@ -291,7 +291,7 @@ msgstr "Now I am speaking to you,"
 
 #: ./living_is_doing.txt:138
 msgid "你听到那个感觉，"
-msgstr "and hearing about it,"
+msgstr "and you are hearing about it,"
 
 #: ./living_is_doing.txt:140
 msgid "嗯！是不错"
@@ -311,7 +311,7 @@ msgstr "when you are drinking water,"
 
 #: ./living_is_doing.txt:148
 msgid "你感受那个舒畅"
-msgstr "you feel and enjoy that comfort and ease."
+msgstr "you feel that comfort and ease."
 
 #: ./living_is_doing.txt:150
 msgid "假如能够的话"
@@ -340,7 +340,7 @@ msgstr "showering and dressing up..."
 
 #: ./living_is_doing.txt:162
 msgid "整个过程了"
-msgstr "The complete process,"
+msgstr "the complete process,"
 
 #: ./living_is_doing.txt:164
 msgid "就全部"
@@ -408,7 +408,7 @@ msgstr "Today you experience"
 
 #: ./living_is_doing.txt:196
 msgid "你自我整理的时候"
-msgstr "tidying up yourself,"
+msgstr "when tidying up yourself,"
 
 #: ./living_is_doing.txt:198
 msgid "那种舒畅的感觉"
@@ -461,7 +461,7 @@ msgstr "that’s why we say,"
 
 #: ./living_is_doing.txt:222
 msgid "早上起来一定要做的那10件事"
-msgstr "we must do these ten things after we wake up in the morning:"
+msgstr "we must do these 10 things after we wake up in the morning:"
 
 #: ./living_is_doing.txt:224
 msgctxt "./living_is_doing.txt:224"
@@ -498,7 +498,7 @@ msgstr "and only give yourself five minutes to do all these things?"
 
 #: ./living_is_doing.txt:240
 msgid "那你一辈子都匆匆忙忙的走过去"
-msgstr "If so, then you are going to live your whole life in a hurry."
+msgstr "If so, then you are living your whole life in a hurry."
 
 #: ./living_is_doing.txt:242
 msgid "你腾一个小时"
@@ -537,7 +537,7 @@ msgstr "Everyone should know this,"
 
 #: ./living_is_doing.txt:258
 msgid "五官上面的清理噢"
-msgstr "The cleansing of the five facial features,"
+msgstr "the cleansing of the five facial features,"
 
 #: ./living_is_doing.txt:260
 msgid "跟你色身沐浴呀"
@@ -725,7 +725,7 @@ msgstr "and can find problems,"
 
 #: ./living_is_doing.txt:350
 msgid "会解决困难"
-msgstr "and then resolve them,"
+msgstr "resolve them,"
 
 #: ./living_is_doing.txt:352
 msgid "虽然在红尘中"
@@ -749,7 +749,7 @@ msgstr "because you have the means to deal with your challenges."
 
 #: ./living_is_doing.txt:362
 msgid "那你一生都没有看到困难"
-msgstr "In your whole life, you fail to see any existence of problems,"
+msgstr "(But) in your whole life, you fail to see any existence of problems,"
 
 #: ./living_is_doing.txt:364
 msgid "所以你都没有解决困难"
@@ -765,11 +765,11 @@ msgstr "Do you know this?"
 
 #: ./living_is_doing.txt:370
 msgid "你会看到困难"
-msgstr "You would only want to (challenge yourself and) solve problems,"
+msgstr "You would want to (challenge yourself and) solve problems,"
 
 #: ./living_is_doing.txt:372
 msgid "所以你才会去解决困难"
-msgstr "because you are able to discover them."
+msgstr "only because you are able to discover them."
 
 #: ./living_is_doing.txt:374
 msgid "虽然这个时候是在红尘里"
@@ -817,15 +817,15 @@ msgstr "going beyond."
 
 #: ./living_is_doing.txt:396
 msgid "因为我们不希望你"
-msgstr "All this is because we do not wish you to"
+msgstr "All this is because we do not wish you"
 
 #: ./living_is_doing.txt:398
 msgid "浮在那个虚幻的地方"
-msgstr "be floating in that delusional realm."
+msgstr "to be floating in that delusional realm."
 
 #: ./living_is_doing.txt:400
 msgid "是因为你在那里"
-msgstr "As while you are over there,"
+msgstr "As while you are there,"
 
 #: ./living_is_doing.txt:402
 msgctxt "./living_is_doing.txt:402"
