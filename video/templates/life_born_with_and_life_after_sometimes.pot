@@ -86,7 +86,7 @@ msgid "第一个身体跟生命是二非一"
 msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:38
-msgid "第二个先天性生命跟后天性生命。"
+msgid "第二个先天性生命跟后天性生命"
 msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:40
