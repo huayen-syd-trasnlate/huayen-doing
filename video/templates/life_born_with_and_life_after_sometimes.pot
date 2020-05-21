@@ -22,7 +22,7 @@ msgid "身体的出生，不等于生命的出生。"
 msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:6
-msgid "身体出生以后，大概要到六岁。 "
+msgid "身体出生以后，大概要到六岁。"
 msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:8
@@ -38,7 +38,7 @@ msgid "身体出生的时候，跟着身体来的是先天性的生命。"
 msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:14
-msgid "大约在六岁的时候，后天性生命才来临。 "
+msgid "大约在六岁的时候，后天性生命才来临。"
 msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:16
@@ -46,7 +46,7 @@ msgid "而各位所认知的生命，"
 msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:18
-msgid "应该都是后天性生命。 "
+msgid "应该都是后天性生命。"
 msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:20
@@ -86,7 +86,7 @@ msgid "第一个身体跟生命是二非一"
 msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:38
-msgid "第二个先天性生命跟后天性生命。 "
+msgid "第二个先天性生命跟后天性生命。"
 msgstr ""
 
 #: ./life_born_with_and_life_after_sometimes.txt:40
